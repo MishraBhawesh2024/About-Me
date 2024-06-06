@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @MaulikNepali (Bhawesh Mishra)
 - 👀 I’m interested in Data Analysis, ML algorithms, Number Theory, Statistics and other applied forms of mathematics. 
-- 🌱 I’m currently some basic NLP and effective dimensionality reduction and visualization. 
+- 🌱 I’m learning some effective dimensionality reduction and visualization techniques and some DS&A algorithms. 
 - 💞️ I’m looking to collaborate on Data Analysis/ML/Number Theory projects. 
 - 📫 How to reach me **bhaweshmishra2024@gmail.com**
-- 😄 Pronouns: ... He/him/his
+- 😄 Pronouns: He/him/his
 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ब्रह्मांड निकाया निर्मित माया रोम रोम प्रति बेद कहै।
+                मम उर सो बासी यह उपहासी सुनत धीर मति थिर न रहै॥ 
 
 <!---
 MaulikNepali/MaulikNepali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
