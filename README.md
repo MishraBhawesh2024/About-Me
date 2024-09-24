@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhawesh Mishra.
-- 👀 I’m interested in Data Analysis, Modelling Problems, ML algorithms, Number Theory, Statistics and other applied forms of mathematics. 
-- 🌱 I’m learning some effective dimensionality reduction techniques and some DS&A algorithms. 
-- 💞️ I’m always open to collaborate on Data Analysis/ML/Number Theory projects. 
+- 👀 I’m interested in Data Analysis, Modelling Problems, ML and Deep Learning algorithms, Number Theory, Statistics, Data Structures and other applied forms of mathematics. 
+- 🌱 I’m continuously learning DS&A, Deep Learning, Numerical Methods etc. 
+- 💞️ I’m always open to collaborate on Data Analysis/ML/Numerical/Number Theory projects. 
 - 📫 How to reach me **bhaweshmishra2024@gmail.com**
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: ब्रह्मांड निकाया निर्मित माया रोम रोम प्रति बेद कहै।
